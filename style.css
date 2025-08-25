@@ -749,6 +749,9 @@ section .title::after{
 .skills-content .right .tailwindcss::before{
     width: 75%;
 }
+.skills-content .right .bootstrap::before{
+    width: 75%;
+}
 
 
 /* projects section styling */
